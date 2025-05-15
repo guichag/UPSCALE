@@ -4,4 +4,4 @@ Jupyter notebooks to analyze and plot soil moisture (SM) states and precipitatio
 
 config.py: define the input and output paths\
 p_config.py: boundaries of sub-regions\
-~/read_data: functions to access the simulation outputs\
+~/read_data: functions to access the simulation outputs
